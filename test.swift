@@ -28,3 +28,15 @@ func Sum(_ a: Int, _ b: Int) -> Int {
 print(Sum(3, 5))
 */
 
+/*
+let a = 8
+let b = 4
+
+guard b != 0 else {
+    print("Error: Division by zero")
+    fatalError("Division by zero is not allowed")
+}
+
+print(a / b)
+*/
+
